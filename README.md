@@ -1,7 +1,8 @@
 # Computational Physics Labs
 
-**Adrien Creténier**
-Computational physics course (*Physique Numérique*), **ENS Paris-Saclay — academic year 2022–2023**
+**Adrien Creténier**  
+Computational physics course (*Physique Numérique*), **Licence 3 / Senior Undergraduate level**  
+**ENS Paris-Saclay — academic year 2022–2023**
 
 ---
 
